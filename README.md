@@ -16,7 +16,7 @@ Import `is_app_upgraded`:
 import 'package:is_app_upgraded/is_app_upgraded.dart';
 ```
 
-To check if this is the first time the app is run:
+To check if the app has just been upgraded:
 
 ```dart
 bool isappupgraded = await IsAppUpgraded.isAppUpgraded();
