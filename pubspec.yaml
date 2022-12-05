@@ -1,0 +1,21 @@
+name: is_app_upgraded
+description: A simple package that checks if the running app has been just upgraded.
+version: 0.0.1
+repository: https://github.com/sachavieuxroy/is_app_upgraded
+homepage: https://github.com/sachavieuxroy/is_app_upgraded
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+  package_info_plus: ^3.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
