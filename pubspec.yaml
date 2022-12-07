@@ -1,6 +1,6 @@
 name: is_app_upgraded
 description: A simple package that checks if the running app has been just upgraded.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/sachavieuxroy/is_app_upgraded
 homepage: https://www.sachavieuxroy.com/
 
